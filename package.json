@@ -1,9 +1,9 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "main": "amerieapi.js",
+  "main": "aa.js",
   "scripts": {
-    "start": "node amerieapi.js",
+    "start": "node aa.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
